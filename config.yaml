@@ -1,0 +1,14 @@
+github:
+  username: "MuskanSharma24"
+  token: "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 "  # Generate this from GitHub
+  repositories:
+    - name: "MuskanSharma24/LLama"
+      path: "https://github.com/MuskanSharma24/LLama"
+    
+
+database:
+  user: "postgres"
+  password: "Root12345"
+  host: "localhost"
+  port: 5432
+  name: "Git_tracker"

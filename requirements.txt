@@ -1,5 +1,4 @@
-gitpython
-requests
-pyyaml
 sqlalchemy
-schedule
+psycopg2
+pyyaml
+requests
