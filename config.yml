@@ -1,0 +1,12 @@
+github_username: "username"
+
+database:
+  type: "sqlite"
+  name: "github_repos.db"
+
+logging:
+  file: "logs/github_sync.log"
+  level: "INFO"
+
+schedule:
+  interval: "24h"
